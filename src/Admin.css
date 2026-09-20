@@ -1,0 +1,168 @@
+/* --- Global Reset & Box Sizing for Perfect Fit --- */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* --- Admin App Container with Orange-Rose Gradient & Background --- */
+.admin-app-container,
+div[style*="background-image"] {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(rgba(15, 23, 42, 0.85), rgba(15, 23, 42, 0.85)), url('./assets/purple.jpg'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow-x: hidden;
+  padding: 20px;
+}
+
+/* --- Admin Dashboard Layout Box (Fully Fitted Without White Gaps) --- */
+.admin-dashboard-wrapper,
+div[style*="backdrop-filter"] {
+  display: flex;
+  width: 100%;
+  max-width: 1250px;
+  height: 88vh;
+  background: rgba(15, 23, 42, 0.92);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 20px;
+  box-shadow: 0 30px 60px rgba(0, 0, 0, 0.85);
+  overflow: hidden;
+}
+
+/* --- Sidebar with Orange & Rose Theme --- */
+.admin-sidebar {
+  width: 280px;
+  background: rgba(15, 23, 42, 0.98);
+  border-right: 1px solid rgba(255, 255, 255, 0.15);
+  display: flex;
+  flex-direction: column;
+  padding: 25px 15px;
+  gap: 8px;
+  flex-shrink: 0;
+  overflow-y: auto;
+}
+
+.admin-sidebar h3,
+.admin-sidebar h2 {
+  color: #fed7aa;
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.admin-sidebar button {
+  background: transparent;
+  border: none;
+  color: #cbd5e1;
+  padding: 12px 16px;
+  text-align: left;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+/* --- Orange to Rose Gradient for Active / Hover Buttons --- */
+.admin-sidebar button:hover, 
+.admin-sidebar button.active-tab {
+  background: linear-gradient(135deg, #f97316, #e11d48);
+  color: #ffffff;
+  box-shadow: 0 4px 15px rgba(225, 29, 72, 0.5);
+}
+
+.logout-admin-btn {
+  margin-top: auto;
+  background: rgba(239, 68, 68, 0.2) !important;
+  color: #f87171 !important;
+  border: 1px solid rgba(239, 68, 68, 0.4) !important;
+}
+
+/* --- Main Content Area --- */
+.admin-content-area {
+  flex: 1;
+  padding: 35px;
+  overflow-y: auto;
+  color: #fff;
+  text-align: left;
+}
+
+/* Scrollbar styling for smooth UI */
+.admin-content-area::-webkit-scrollbar,
+.admin-sidebar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.admin-content-area::-webkit-scrollbar-thumb,
+.admin-sidebar::-webkit-scrollbar-thumb {
+  background: rgba(225, 29, 72, 0.5);
+  border-radius: 10px;
+}
+
+/* Form inputs and interactive elements polishing */
+input, select, textarea {
+  background-color: #0f172a !important;
+  border: 1px solid #334155 !important;
+  color: #ffffff !important;
+  padding: 10px 12px !important;
+  border-radius: 8px !important;
+  font-size: 14px !important;
+}
+
+input:focus, select:focus, textarea:focus {
+  border-color: #f97316 !important;
+  outline: none !important;
+  box-shadow: 0 0 0 2px rgba(249, 115, 22, 0.2);
+}
+
+/* --- Admin Profile Icon Style with URL --- */
+.admin-profile-icon {
+  width: 45px;
+  height: 45px;
+  min-width: 45px;
+  border-radius: 50%;
+  background-image: url('https://cdn-icons-png.flaticon.com/512/3135/3135715.png');
+  background-size: cover;
+  background-position: center;
+  border: 2px solid #f97316;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+
+/* --- Responsive Fixes for Mobile & Tablets --- */
+@media screen and (max-width: 900px) {
+  .admin-dashboard-wrapper {
+    flex-direction: column;
+    height: auto;
+    max-height: 95vh;
+  }
+  
+  .admin-sidebar {
+    width: 100%;
+    max-height: 140px;
+    flex-direction: row;
+    overflow-x: auto;
+    padding: 10px;
+  }
+
+  .admin-sidebar h3,
+  .admin-sidebar h2 {
+    display: none;
+  }
+
+  .admin-content-area {
+    padding: 20px;
+  }
+}

@@ -1,0 +1,326 @@
+[
+  {
+    "username": "preetha",
+    "rating": 5,
+    "text": "super",
+    "date": "2026-09-16T15:15:34.725Z"
+  },
+  {
+    "username": "Anitha_K",
+    "rating": 5,
+    "text": "The quiz was very useful and informative. I learned a lot!",
+    "date": "2026-08-10T08:30:00.000Z"
+  },
+  {
+    "username": "Meena_R",
+    "rating": 4,
+    "text": "The questions were interesting and the timer was helpful.",
+    "date": "2026-08-11T09:15:00.000Z"
+  },
+  {
+    "username": "Priya_S",
+    "rating": 5,
+    "text": "Excellent quiz system! The interface was very easy to understand.",
+    "date": "2026-08-12T10:00:00.000Z"
+  },
+  {
+    "username": "Sowmiya_V",
+    "rating": 4,
+    "text": "Good questions. The verification process was clear and smooth.",
+    "date": "2026-08-13T11:20:00.000Z"
+  },
+  {
+    "username": "Kavitha_M",
+    "rating": 5,
+    "text": "I really enjoyed the quiz. The certificate looks professional!",
+    "date": "2026-08-14T12:10:00.000Z"
+  },
+  {
+    "username": "Divya_P",
+    "rating": 4,
+    "text": "The quiz was well-organized. Some questions were challenging but fair.",
+    "date": "2026-08-15T13:00:00.000Z"
+  },
+  {
+    "username": "Suganya_T",
+    "rating": 5,
+    "text": "Amazing experience! The system could be made a little faster but overall great.",
+    "date": "2026-08-16T14:30:00.000Z"
+  },
+  {
+    "username": "Nithya_B",
+    "rating": 4,
+    "text": "The face verification was smooth. Good quiz experience overall.",
+    "date": "2026-08-17T09:45:00.000Z"
+  },
+  {
+    "username": "Revathi_N",
+    "rating": 5,
+    "text": "Very well designed quiz platform. Loved the badge system!",
+    "date": "2026-08-18T10:30:00.000Z"
+  },
+  {
+    "username": "Saranya_C",
+    "rating": 4,
+    "text": "The quiz was informative and the questions were well-framed.",
+    "date": "2026-08-19T11:00:00.000Z"
+  },
+  {
+    "username": "Kalpana_D",
+    "rating": 5,
+    "text": "Superb! The certificate of participation looks very official.",
+    "date": "2026-08-20T08:00:00.000Z"
+  },
+  {
+    "username": "Mythili_E",
+    "rating": 4,
+    "text": "I liked the different difficulty levels. Easy, Medium and Hard were well balanced.",
+    "date": "2026-08-21T09:00:00.000Z"
+  },
+  {
+    "username": "Pavithra_F",
+    "rating": 5,
+    "text": "The online quiz system is very innovative. Proud to be part of it!",
+    "date": "2026-08-22T10:20:00.000Z"
+  },
+  {
+    "username": "Nandhini_G",
+    "rating": 4,
+    "text": "Good experience. The topic selection was easy and intuitive.",
+    "date": "2026-08-23T11:30:00.000Z"
+  },
+  {
+    "username": "Lakshmi_H",
+    "rating": 5,
+    "text": "Excellent platform! The feedback system is a great addition.",
+    "date": "2026-08-24T12:00:00.000Z"
+  },
+  {
+    "username": "Bharathi_I",
+    "rating": 4,
+    "text": "The quiz helped me test my knowledge. Will recommend to friends.",
+    "date": "2026-08-25T13:15:00.000Z"
+  },
+  {
+    "username": "Deepa_J",
+    "rating": 5,
+    "text": "Fantastic! The question review at the end was very helpful.",
+    "date": "2026-08-26T08:45:00.000Z"
+  },
+  {
+    "username": "Geetha_L",
+    "rating": 4,
+    "text": "Nice quiz system. The timer adds excitement to the experience.",
+    "date": "2026-08-27T09:30:00.000Z"
+  },
+  {
+    "username": "Hema_M",
+    "rating": 5,
+    "text": "Very good platform for learning and self-assessment.",
+    "date": "2026-08-28T10:15:00.000Z"
+  },
+  {
+    "username": "Janani_N",
+    "rating": 4,
+    "text": "The quiz was excellent! The score review helped me understand mistakes.",
+    "date": "2026-08-29T11:00:00.000Z"
+  },
+  {
+    "username": "student_21",
+    "rating": 5,
+    "text": "I loved the 13 topic options. Great variety of subjects!",
+    "date": "2026-09-01T08:00:00.000Z"
+  },
+  {
+    "username": "student_22",
+    "rating": 4,
+    "text": "The camera verification was straightforward. Good system!",
+    "date": "2026-09-01T09:15:00.000Z"
+  },
+  {
+    "username": "student_23",
+    "rating": 5,
+    "text": "The questions in Python and Java were very well written.",
+    "date": "2026-09-02T10:00:00.000Z"
+  },
+  {
+    "username": "student_24",
+    "rating": 4,
+    "text": "Good quiz platform! A few questions were difficult but manageable.",
+    "date": "2026-09-02T11:30:00.000Z"
+  },
+  {
+    "username": "student_25",
+    "rating": 5,
+    "text": "The ID verification adds trust to the system. Great feature!",
+    "date": "2026-09-03T09:00:00.000Z"
+  },
+  {
+    "username": "student_26",
+    "rating": 4,
+    "text": "Very organized quiz system. The medal awards were motivating.",
+    "date": "2026-09-03T10:30:00.000Z"
+  },
+  {
+    "username": "student_27",
+    "rating": 5,
+    "text": "Excellent experience from registration to certificate. Well done!",
+    "date": "2026-09-04T08:30:00.000Z"
+  },
+  {
+    "username": "student_28",
+    "rating": 3,
+    "text": "The system is good but could benefit from faster loading times.",
+    "date": "2026-09-04T11:00:00.000Z"
+  },
+  {
+    "username": "student_29",
+    "rating": 5,
+    "text": "The Machine Learning quiz was challenging and educational.",
+    "date": "2026-09-05T09:15:00.000Z"
+  },
+  {
+    "username": "student_30",
+    "rating": 4,
+    "text": "Well-structured platform. The guidance page was very helpful.",
+    "date": "2026-09-05T10:45:00.000Z"
+  },
+  {
+    "username": "student_31",
+    "rating": 5,
+    "text": "The badge I earned motivates me to take more quizzes!",
+    "date": "2026-09-06T08:00:00.000Z"
+  },
+  {
+    "username": "student_32",
+    "rating": 4,
+    "text": "The verification process gave me confidence in the system.",
+    "date": "2026-09-06T09:30:00.000Z"
+  },
+  {
+    "username": "student_33",
+    "rating": 5,
+    "text": "Great platform for college students to test their knowledge.",
+    "date": "2026-09-07T10:00:00.000Z"
+  },
+  {
+    "username": "student_34",
+    "rating": 4,
+    "text": "The DSA quiz was very comprehensive. Learned a lot.",
+    "date": "2026-09-07T11:15:00.000Z"
+  },
+  {
+    "username": "student_35",
+    "rating": 5,
+    "text": "The quiz helped me prepare for my semester exams!",
+    "date": "2026-09-08T08:30:00.000Z"
+  },
+  {
+    "username": "student_36",
+    "rating": 4,
+    "text": "Smooth interface! The design is modern and attractive.",
+    "date": "2026-09-08T09:45:00.000Z"
+  },
+  {
+    "username": "student_37",
+    "rating": 5,
+    "text": "I appreciate the College and University branding on the certificate.",
+    "date": "2026-09-09T10:00:00.000Z"
+  },
+  {
+    "username": "student_38",
+    "rating": 4,
+    "text": "The Cloud Computing questions were up-to-date and relevant.",
+    "date": "2026-09-09T11:30:00.000Z"
+  },
+  {
+    "username": "student_39",
+    "rating": 5,
+    "text": "Excellent! The system worked perfectly without any issues.",
+    "date": "2026-09-10T08:00:00.000Z"
+  },
+  {
+    "username": "student_40",
+    "rating": 4,
+    "text": "The Data Science quiz was very well curated. Loved it!",
+    "date": "2026-09-10T09:15:00.000Z"
+  },
+  {
+    "username": "student_41",
+    "rating": 5,
+    "text": "The platform is very professional. Great work by the team!",
+    "date": "2026-09-11T10:00:00.000Z"
+  },
+  {
+    "username": "student_42",
+    "rating": 4,
+    "text": "Good experience overall. The JavaScript questions were practical.",
+    "date": "2026-09-11T11:30:00.000Z"
+  },
+  {
+    "username": "student_43",
+    "rating": 3,
+    "text": "The system is useful but some questions need more clarity.",
+    "date": "2026-09-12T09:00:00.000Z"
+  },
+  {
+    "username": "student_44",
+    "rating": 5,
+    "text": "The quiz helped improve my understanding of OOP concepts.",
+    "date": "2026-09-12T10:30:00.000Z"
+  },
+  {
+    "username": "student_45",
+    "rating": 4,
+    "text": "The timer feature is great for practicing under pressure.",
+    "date": "2026-09-13T08:15:00.000Z"
+  },
+  {
+    "username": "student_46",
+    "rating": 5,
+    "text": "Very impressed with the overall quality of the quiz system!",
+    "date": "2026-09-13T09:30:00.000Z"
+  },
+  {
+    "username": "student_47",
+    "rating": 4,
+    "text": "The GenAI quiz was very interesting. Learned new concepts.",
+    "date": "2026-09-14T10:00:00.000Z"
+  },
+  {
+    "username": "student_48",
+    "rating": 5,
+    "text": "The Operating Systems quiz tested my knowledge thoroughly.",
+    "date": "2026-09-14T11:15:00.000Z"
+  },
+  {
+    "username": "student_49",
+    "rating": 4,
+    "text": "Nice platform! The score display and review were clear and useful.",
+    "date": "2026-09-15T09:00:00.000Z"
+  },
+  {
+    "username": "student_50",
+    "rating": 5,
+    "text": "Wonderful quiz system! Will definitely recommend to my classmates.",
+    "date": "2026-09-15T10:30:00.000Z"
+  },
+  {
+    "username": "student_51",
+    "rating": 4,
+    "text": "The Software Engineering questions were comprehensive and useful.",
+    "date": "2026-09-16T08:00:00.000Z"
+  },
+  {
+    "username": "student_52",
+    "rating": 5,
+    "text": "Loved participating in this quiz. The certificate is a great reward!",
+    "date": "2026-09-16T09:15:00.000Z"
+  },
+  {
+    "username": "Krishna vel",
+    "rating": 4,
+    "text": "super",
+    "date": "2026-09-18T12:55:20.458Z"
+  }
+]
